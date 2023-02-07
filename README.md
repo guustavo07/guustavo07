@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Gustavo Henrique! <br>Welcome to my page.</h1>
 
 ### 👨🏻‍💻 About me:
-<li>💻 I'm Front-End Developer.
+<li>💻 I'm Web Developer.
 <li>🚀 Systems Analysis and Development Student at Newton Paiva.
 <li>🌱 I'm currently delving into JavaScript, React and Java.
 <li>📫 How to reach me: gustavoo.go59@gmail.com
